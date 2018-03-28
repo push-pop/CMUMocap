@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3290fbd05d2194447a27b9fd5d0d94bc
+timeCreated: 1522250264
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Character_Ctrl:ChestEndEffector
+    100006: Character_Ctrl:ChestOriginEffector
+    100008: Character_Ctrl:Head
+    100010: Character_Ctrl:HeadEffector
+    100012: Character_Ctrl:Hips
+    100014: Character_Ctrl:HipsEffector
+    100016: Character_Ctrl:LeftAnkleEffector
+    100018: Character_Ctrl:LeftArm
+    100020: Character_Ctrl:LeftElbowEffector
+    100022: Character_Ctrl:LeftFoot
+    100024: Character_Ctrl:LeftFootEffector
+    100026: Character_Ctrl:LeftForeArm
+    100028: Character_Ctrl:LeftHand
+    100030: Character_Ctrl:LeftHipEffector
+    100032: Character_Ctrl:LeftKneeEffector
+    100034: Character_Ctrl:LeftLeg
+    100036: Character_Ctrl:LeftShoulder
+    100038: Character_Ctrl:LeftShoulderEffector
+    100040: Character_Ctrl:LeftToeBase
+    100042: Character_Ctrl:LeftUpLeg
+    100044: Character_Ctrl:LeftWristEffector
+    100046: Character_Ctrl:Neck
+    100048: Character_Ctrl:Reference
+    100050: Character_Ctrl:RightAnkleEffector
+    100052: Character_Ctrl:RightArm
+    100054: Character_Ctrl:RightElbowEffector
+    100056: Character_Ctrl:RightFoot
+    100058: Character_Ctrl:RightFootEffector
+    100060: Character_Ctrl:RightForeArm
+    100062: Character_Ctrl:RightHand
+    100064: Character_Ctrl:RightHipEffector
+    100066: Character_Ctrl:RightKneeEffector
+    100068: Character_Ctrl:RightLeg
+    100070: Character_Ctrl:RightShoulder
+    100072: Character_Ctrl:RightShoulderEffector
+    100074: Character_Ctrl:RightToeBase
+    100076: Character_Ctrl:RightUpLeg
+    100078: Character_Ctrl:RightWristEffector
+    100080: Character_Ctrl:Spine
+    100082: Character_Ctrl:Spine1
+    100084: Character_Ctrl:Spine2
+    100086: Neo_Head
+    100088: Neo_Hips
+    100090: Neo_LeftArm
+    100092: Neo_LeftFoot
+    100094: Neo_LeftForeArm
+    100096: Neo_LeftHand
+    100098: Neo_LeftLeg
+    100100: Neo_LeftShoulder
+    100102: Neo_LeftToeBase
+    100104: Neo_LeftUpLeg
+    100106: Neo_Neck
+    100108: Neo_Reference
+    100110: Neo_RightArm
+    100112: Neo_RightFoot
+    100114: Neo_RightForeArm
+    100116: Neo_RightHand
+    100118: Neo_RightLeg
+    100120: Neo_RightShoulder
+    100122: Neo_RightToeBase
+    100124: Neo_RightUpLeg
+    100126: Neo_Spine
+    100128: Neo_Spine1
+    100130: Neo_Spine2
+    400000: //RootNode
+    400002: Body
+    400004: Character_Ctrl:ChestEndEffector
+    400006: Character_Ctrl:ChestOriginEffector
+    400008: Character_Ctrl:Head
+    400010: Character_Ctrl:HeadEffector
+    400012: Character_Ctrl:Hips
+    400014: Character_Ctrl:HipsEffector
+    400016: Character_Ctrl:LeftAnkleEffector
+    400018: Character_Ctrl:LeftArm
+    400020: Character_Ctrl:LeftElbowEffector
+    400022: Character_Ctrl:LeftFoot
+    400024: Character_Ctrl:LeftFootEffector
+    400026: Character_Ctrl:LeftForeArm
+    400028: Character_Ctrl:LeftHand
+    400030: Character_Ctrl:LeftHipEffector
+    400032: Character_Ctrl:LeftKneeEffector
+    400034: Character_Ctrl:LeftLeg
+    400036: Character_Ctrl:LeftShoulder
+    400038: Character_Ctrl:LeftShoulderEffector
+    400040: Character_Ctrl:LeftToeBase
+    400042: Character_Ctrl:LeftUpLeg
+    400044: Character_Ctrl:LeftWristEffector
+    400046: Character_Ctrl:Neck
+    400048: Character_Ctrl:Reference
+    400050: Character_Ctrl:RightAnkleEffector
+    400052: Character_Ctrl:RightArm
+    400054: Character_Ctrl:RightElbowEffector
+    400056: Character_Ctrl:RightFoot
+    400058: Character_Ctrl:RightFootEffector
+    400060: Character_Ctrl:RightForeArm
+    400062: Character_Ctrl:RightHand
+    400064: Character_Ctrl:RightHipEffector
+    400066: Character_Ctrl:RightKneeEffector
+    400068: Character_Ctrl:RightLeg
+    400070: Character_Ctrl:RightShoulder
+    400072: Character_Ctrl:RightShoulderEffector
+    400074: Character_Ctrl:RightToeBase
+    400076: Character_Ctrl:RightUpLeg
+    400078: Character_Ctrl:RightWristEffector
+    400080: Character_Ctrl:Spine
+    400082: Character_Ctrl:Spine1
+    400084: Character_Ctrl:Spine2
+    400086: Neo_Head
+    400088: Neo_Hips
+    400090: Neo_LeftArm
+    400092: Neo_LeftFoot
+    400094: Neo_LeftForeArm
+    400096: Neo_LeftHand
+    400098: Neo_LeftLeg
+    400100: Neo_LeftShoulder
+    400102: Neo_LeftToeBase
+    400104: Neo_LeftUpLeg
+    400106: Neo_Neck
+    400108: Neo_Reference
+    400110: Neo_RightArm
+    400112: Neo_RightFoot
+    400114: Neo_RightForeArm
+    400116: Neo_RightHand
+    400118: Neo_RightLeg
+    400120: Neo_RightShoulder
+    400122: Neo_RightToeBase
+    400124: Neo_RightUpLeg
+    400126: Neo_Spine
+    400128: Neo_Spine1
+    400130: Neo_Spine2
+    2100000: Body
+    4300000: Body
+    7400000: 85_12
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
